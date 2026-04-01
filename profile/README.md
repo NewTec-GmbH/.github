@@ -35,7 +35,7 @@ NewTec is a specialist for the development of hardware and software systems and 
 As the market leader for safety solutions, we offer you comprehensive services for the entire product life cycle. We provide strategic and technological consultations, develop precision safety and security concepts, and offer customised services and pre-certified platforms for the hardware and software development. We also support you with the market launch and approval, as well as with the safe and secure operation of your products.
 <br>
 
- 🌍 You want more? Visit us here: <a href="https://www.newtec.de/en/solutions/platforms/">www.NewTec.de</a>
+ 🌍 You want more? Visit us here: <a href="https://www.newtec.de/en/">www.NewTec.de</a>
 
 <h2 style="text-align: center;">
     <div align="center">
